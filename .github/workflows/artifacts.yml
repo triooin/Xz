@@ -18,3 +18,4 @@ jobs:
           prefix: "**To test the changes in this pull request, install this apk:**"
           format: "[📦 {name}]({url})"
           addTo: pull
+          
