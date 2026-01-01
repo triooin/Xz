@@ -3,7 +3,7 @@ name: Upload Release APK
 on:
   push:
     tags:
-      - 'v*.*.*'
+      - 'v*.*.**
 
 jobs:
   check:
